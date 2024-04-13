@@ -3,10 +3,6 @@
 ## Overview
 add summary
 
-
-
-
-
 ## Create Project Virtual Environment
 
 ```shell
